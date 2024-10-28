@@ -10,10 +10,10 @@ Store ID,City,Store Number,Country,Department Name,Total Workers' Hours,Units So
 88253,London,I,United Kingdom,Household,1183.27,54915.0,290400.0,Medium,Type A,382,October 2016
 88253,London,I,United Kingdom,Hardware,2029.82,59260.0,450015.0,Medium,Type A,382,October 2016
 88253,London,I,United Kingdom,Non Food,7911.56,327855.0,2355756.0,Medium,Type A,382,October 2016
-88253,London,I,United Kingdom,Admin,4308.24,68.98042887777099,1648169.0,Medium,Type A,382,October 2016
+88253,London,I,United Kingdom,Admin,4308.24,169.28917312584005,1648486.0,Medium,Type A,382,October 2016
 88253,London,I,United Kingdom,Checkout,5825.1,3435790.0,11070435.0,Medium,Type A,382,October 2016
-88253,London,I,United Kingdom,Customer Services,3320.08,113.29627887656673,1648309.0,Medium,Type A,382,October 2016
-88253,London,I,United Kingdom,others,2253.25,50.0816891934964,1648109.0,Medium,Type A,382,October 2016
+88253,London,I,United Kingdom,Customer Services,3320.08,63.05042740010354,1648150.0,Medium,Type A,382,October 2016
+88253,London,I,United Kingdom,others,2253.25,62.370971329864766,1648148.0,Medium,Type A,382,October 2016
 88253,London,I,United Kingdom,all,40086.49,3435790.0,11070435.0,Medium,Type A,382,October 2016
 38976,Manchester,Unique,United Kingdom,Dry,2583.69,754600.0,2648175.0,,Type A,382,October 2016
 38976,Manchester,Unique,United Kingdom,Frozen,5145.34,216925.0,1291830.0,,Type A,382,October 2016
@@ -839,10 +839,10 @@ Store ID,City,Store Number,Country,Department Name,Total Workers' Hours,Units So
 88253,London,I,United Kingdom,Household,1542.03,123335.0,9747.0,Medium,Type A,367.0,November 2016
 88253,London,I,United Kingdom,Hardware,1998.34,57045.0,449940.0,Medium,Type A,367.0,November 2016
 88253,London,I,United Kingdom,Non Food,8600.75,407470.0,3039525.0,Medium,Type A,367.0,November 2016
-88253,London,I,United Kingdom,Admin,3726.05,7.473230791172734,1647974.0,Medium,Type A,367.0,November 2016
+88253,London,I,United Kingdom,Admin,3726.05,160.2151262644973,1648458.0,Medium,Type A,367.0,November 2016
 88253,London,I,United Kingdom,Checkout,6035.95,4274175.0,13871136.0,Medium,Type A,367.0,November 2016
-88253,London,I,United Kingdom,Customer Services,3235.12,47.84876318431556,1648102.0,Medium,Type A,367.0,November 2016
-88253,London,I,United Kingdom,others,1916.52,186.0742659754128,1648540.0,Medium,Type A,367.0,November 2016
+88253,London,I,United Kingdom,Customer Services,3235.12,124.85155487803135,1648346.0,Medium,Type A,367.0,November 2016
+88253,London,I,United Kingdom,others,1916.52,117.46706191368429,1648322.0,Medium,Type A,367.0,November 2016
 88253,London,I,United Kingdom,all,43164.25,4274175.0,13871136.0,Medium,Type A,367.0,November 2016
 38976,Manchester,Unique,United Kingdom,Dry,2879.5,809050.0,2777577.0,,Type A,367.0,November 2016
 38976,Manchester,Unique,United Kingdom,Frozen,5607.95,236310.0,1303869.0,,Type A,367.0,November 2016
@@ -1667,10 +1667,10 @@ Store ID,City,Store Number,Country,Department Name,Total Workers' Hours,Units So
 88253,London,I,United Kingdom,Household,1617.56,203885.0,954240.0,Medium,Type A,350.0,December 2016
 88253,London,I,United Kingdom,Hardware,2231.22,81650.0,680685.0,Medium,Type A,350.0,December 2016
 88253,London,I,United Kingdom,Non Food,8553.55,571700.0,4072974.0,Medium,Type A,350.0,December 2016
-88253,London,I,United Kingdom,Admin,3436.52,47.42948105957478,1648100.0,Medium,Type A,350.0,December 2016
+88253,London,I,United Kingdom,Admin,3436.52,59.86647293128762,1648140.0,Medium,Type A,350.0,December 2016
 88253,London,I,United Kingdom,Checkout,6508.0,5178595.0,17825241.0,Medium,Type A,350.0,December 2016
-88253,London,I,United Kingdom,Customer Services,3367.29,88.3845292692342,1648230.0,Medium,Type A,350.0,December 2016
-88253,London,I,United Kingdom,others,1746.58,158.94637539432057,1648454.0,Medium,Type A,350.0,December 2016
+88253,London,I,United Kingdom,Customer Services,3367.29,196.18840752109864,1648572.0,Medium,Type A,350.0,December 2016
+88253,London,I,United Kingdom,others,1746.58,203.74851646458993,1648596.0,Medium,Type A,350.0,December 2016
 88253,London,I,United Kingdom,all,41738.66,5178595.0,17825241.0,Medium,Type A,350.0,December 2016
 38976,Manchester,Unique,United Kingdom,Dry,2766.21,967025.0,4107765.0,,Type A,350.0,December 2016
 38976,Manchester,Unique,United Kingdom,Frozen,5217.73,307740.0,1872885.0,,Type A,350.0,December 2016
@@ -2495,10 +2495,10 @@ Store ID,City,Store Number,Country,Department Name,Total Workers' Hours,Units So
 88253,London,I,United Kingdom,Household,1567.21,36910.0,222612.0,Medium,Type A,382.0,January 2017
 88253,London,I,United Kingdom,Hardware,2523.89,50785.0,409353.0,Medium,Type A,382.0,January 2017
 88253,London,I,United Kingdom,Non Food,9566.88,268355.0,2128086.0,Medium,Type A,382.0,January 2017
-88253,London,I,United Kingdom,Admin,4176.07,166.8024277296905,1648479.0,Medium,Type A,382.0,January 2017
+88253,London,I,United Kingdom,Admin,4176.07,205.73339281435972,1648602.0,Medium,Type A,382.0,January 2017
 88253,London,I,United Kingdom,Checkout,5894.33,3040090.0,9716223.0,Medium,Type A,382.0,January 2017
-88253,London,I,United Kingdom,Customer Services,3395.61,63.855395624882256,1648152.0,Medium,Type A,382.0,January 2017
-88253,London,I,United Kingdom,others,2350.81,221.84806500566938,1648653.0,Medium,Type A,382.0,January 2017
+88253,London,I,United Kingdom,Customer Services,3395.61,204.837184581494,1648599.0,Medium,Type A,382.0,January 2017
+88253,London,I,United Kingdom,others,2350.81,7.5802224064018375,1647974.0,Medium,Type A,382.0,January 2017
 88253,London,I,United Kingdom,all,44281.44,3040090.0,9716223.0,Medium,Type A,382.0,January 2017
 38976,Manchester,Unique,United Kingdom,Dry,3282.32,645885.0,1981953.0,,Type A,382.0,January 2017
 38976,Manchester,Unique,United Kingdom,Frozen,5192.55,178505.0,1040895.0,,Type A,382.0,January 2017
@@ -3323,10 +3323,10 @@ Store ID,City,Store Number,Country,Department Name,Total Workers' Hours,Units So
 88253,London,I,United Kingdom,Household,1315.45,30340.0,174285.0,Medium,Type A,352.0,February 2017
 88253,London,I,United Kingdom,Hardware,1756.03,48770.0,36300.0,Medium,Type A,352.0,February 2017
 88253,London,I,United Kingdom,Non Food,7952.47,221395.0,1853577.0,Medium,Type A,352.0,February 2017
-88253,London,I,United Kingdom,Admin,4037.6,54.784853274340286,1648124.0,Medium,Type A,352.0,February 2017
+88253,London,I,United Kingdom,Admin,4037.6,82.55322471787588,1648212.0,Medium,Type A,352.0,February 2017
 88253,London,I,United Kingdom,Checkout,5205.14,2901490.0,9740682.0,Medium,Type A,352.0,February 2017
-88253,London,I,United Kingdom,Customer Services,2605.72,234.03186419588337,1648691.0,Medium,Type A,352.0,February 2017
-88253,London,I,United Kingdom,others,2316.19,42.16607015192957,1648084.0,Medium,Type A,352.0,February 2017
+88253,London,I,United Kingdom,Customer Services,2605.72,101.858139366518,1648273.0,Medium,Type A,352.0,February 2017
+88253,London,I,United Kingdom,others,2316.19,137.96862967924437,1648387.0,Medium,Type A,352.0,February 2017
 88253,London,I,United Kingdom,all,38500.4,2901490.0,9740682.0,Medium,Type A,352.0,February 2017
 38976,Manchester,Unique,United Kingdom,Dry,2552.22,603810.0,1761792.0,,Type A,352.0,February 2017
 38976,Manchester,Unique,United Kingdom,Frozen,5013.17,201825.0,1044420.0,,Type A,352.0,February 2017
@@ -4151,10 +4151,10 @@ Store ID,City,Store Number,Country,Department Name,Total Workers' Hours,Units So
 88253,London,I,United Kingdom,Household,1686.79,52595.0,376821.0,Medium,Type A,380.0,March 2017
 88253,London,I,United Kingdom,Hardware,1608.12,55035.0,367107.0,Medium,Type A,380.0,March 2017
 88253,London,I,United Kingdom,Non Food,7814.0,265630.0,2069478.0,Medium,Type A,380.0,March 2017
-88253,London,I,United Kingdom,Admin,4361.74,121.07198522446177,1648334.0,Medium,Type A,380.0,March 2017
+88253,London,I,United Kingdom,Admin,4361.74,56.560278533429994,1648129.0,Medium,Type A,380.0,March 2017
 88253,London,I,United Kingdom,Checkout,6001.33,3346015.0,10562364.0,Medium,Type A,380.0,March 2017
-88253,London,I,United Kingdom,Customer Services,2826.01,55.57585152906283,1648126.0,Medium,Type A,380.0,March 2017
-88253,London,I,United Kingdom,others,2268.99,195.96940402203154,1648571.0,Medium,Type A,380.0,March 2017
+88253,London,I,United Kingdom,Customer Services,2826.01,200.7210136582043,1648586.0,Medium,Type A,380.0,March 2017
+88253,London,I,United Kingdom,others,2268.99,61.20133300934282,1648144.0,Medium,Type A,380.0,March 2017
 88253,London,I,United Kingdom,all,39535.76,3346015.0,1057056.0,Medium,Type A,380.0,March 2017
 38976,Manchester,Unique,United Kingdom,Dry,2674.95,649550.0,2222031.0,,Type A,380.0,March 2017
 38976,Manchester,Unique,United Kingdom,Frozen,5803.07,214580.0,1178271.0,,Type A,380.0,March 2017
@@ -4979,10 +4979,10 @@ Store ID,City,Store Number,Country,Department Name,Total Workers' Hours,Units So
 88253,London,I,United Kingdom,Household,1268.24,75215.0,596466.0,Medium,Type A,352.0,April 2017
 88253,London,I,United Kingdom,Hardware,2143.11,60780.0,416457.0,Medium,Type A,352.0,April 2017
 88253,London,I,United Kingdom,Non Food,7943.03,315735.0,2312574.0,Medium,Type A,352.0,April 2017
-88253,London,I,United Kingdom,Admin,4040.75,43.39992953996226,1648088.0,Medium,Type A,352.0,April 2017
+88253,London,I,United Kingdom,Admin,4040.75,227.03812316164996,1648669.0,Medium,Type A,352.0,April 2017
 88253,London,I,United Kingdom,Checkout,6045.39,3710905.0,12100083.0,Medium,Type A,352.0,April 2017
-88253,London,I,United Kingdom,Customer Services,2571.1,243.49866746432204,1648721.0,Medium,Type A,352.0,April 2017
-88253,London,I,United Kingdom,others,2051.84,98.76631915018068,1648263.0,Medium,Type A,352.0,April 2017
+88253,London,I,United Kingdom,Customer Services,2571.1,163.39155233647153,1648468.0,Medium,Type A,352.0,April 2017
+88253,London,I,United Kingdom,others,2051.84,115.74807156313076,1648317.0,Medium,Type A,352.0,April 2017
 88253,London,I,United Kingdom,all,39350.09,3710905.0,12283380.0,Medium,Type A,352.0,April 2017
 38976,Manchester,Unique,United Kingdom,Dry,2561.66,768480.0,2769537.0,,Type A,352.0,April 2017
 38976,Manchester,Unique,United Kingdom,Frozen,4692.18,222225.0,1298100.0,,Type A,352.0,April 2017
@@ -5807,10 +5807,10 @@ Store ID,City,Store Number,Country,Department Name,Total Workers' Hours,Units So
 88253,London,I,United Kingdom,Household,1422.44,52310.0,433257.0,Medium,Type A,367.0,May 2017
 88253,London,I,United Kingdom,Hardware,1711.97,54125.0,401400.0,Medium,Type A,367.0,May 2017
 88253,London,I,United Kingdom,Non Food,8175.91,271645.0,2418483.0,Medium,Type A,367.0,May 2017
-88253,London,I,United Kingdom,Admin,4311.39,167.20573537194934,1648480.0,Medium,Type A,367.0,May 2017
+88253,London,I,United Kingdom,Admin,4311.39,187.2827543296829,1648543.0,Medium,Type A,367.0,May 2017
 88253,London,I,United Kingdom,Checkout,5793.63,3552575.0,11393565.0,Medium,Type A,367.0,May 2017
-88253,London,I,United Kingdom,Customer Services,2895.24,156.34790552716723,1648445.0,Medium,Type A,367.0,May 2017
-88253,London,I,United Kingdom,others,2187.16,12.546220862032031,1647990.0,Medium,Type A,367.0,May 2017
+88253,London,I,United Kingdom,Customer Services,2895.24,175.798656602278,1648507.0,Medium,Type A,367.0,May 2017
+88253,London,I,United Kingdom,others,2187.16,188.4066120475082,1648547.0,Medium,Type A,367.0,May 2017
 88253,London,I,United Kingdom,all,39409.88,3552575.0,11336190.0,Medium,Type A,367.0,May 2017
 38976,Manchester,Unique,United Kingdom,Dry,2001.49,762885.0,2822949.0,,Type A,367.0,May 2017
 38976,Manchester,Unique,United Kingdom,Frozen,4685.88,221615.0,1269843.0,,Type A,367.0,May 2017
@@ -6635,10 +6635,10 @@ Store ID,City,Store Number,Country,Department Name,Total Workers' Hours,Units So
 88253,London,I,United Kingdom,Household,1488.53,57250.0,454458.0,Medium,Type A,335.0,June 2017
 88253,London,I,United Kingdom,Hardware,1938.55,68710.0,469824.0,Medium,Type A,335.0,June 2017
 88253,London,I,United Kingdom,Non Food,7307.33,306220.0,2512905.0,Medium,Type A,335.0,June 2017
-88253,London,I,United Kingdom,Admin,3304.35,72.07633483928318,1648178.0,Medium,Type A,335.0,June 2017
+88253,London,I,United Kingdom,Admin,3304.35,160.79587426214394,1648459.0,Medium,Type A,335.0,June 2017
 88253,London,I,United Kingdom,Checkout,4975.41,3558065.0,12362163.0,Medium,Type A,335.0,June 2017
-88253,London,I,United Kingdom,Customer Services,3011.68,57.610948702130855,1648133.0,Medium,Type A,335.0,June 2017
-88253,London,I,United Kingdom,others,1787.5,26.911868085077984,1648035.0,Medium,Type A,335.0,June 2017
+88253,London,I,United Kingdom,Customer Services,3011.68,22.21099721630104,1648020.0,Medium,Type A,335.0,June 2017
+88253,London,I,United Kingdom,others,1787.5,94.05855843856799,1648248.0,Medium,Type A,335.0,June 2017
 88253,London,I,United Kingdom,all,33474.64,3558065.0,11118711.0,Medium,Type A,335.0,June 2017
 38976,Manchester,Unique,United Kingdom,Dry,1734.0,682205.0,2830248.0,,Type A,335.0,June 2017
 38976,Manchester,Unique,United Kingdom,Frozen,4333.42,199485.0,1196763.0,,Type A,335.0,June 2017
