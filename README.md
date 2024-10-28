@@ -46,4 +46,4 @@ Now we could use this data for an analysis, answering questions such as:
 - How have the industry's profits evolved over time?
 - Which department generates the most profit?
 - Is there any difference between the months when external personnel is hired and those when it is not? 
-
+:pineapple:
