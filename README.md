@@ -34,13 +34,17 @@ Our goal will be to **export** one or more **datasets** resulting from the **mer
 - Area
 - Openings cleaning
 - Filling zeros
+- Data Modeling
 
 ## Achievements
 After data cleaning we exported the following files:
 - retail_cleaned.csv: Information about the sales, turnover and hours per month, store and department
-- month_id.csv: Numerical ID associated with each date
-- depts.csv: Numerical ID associated with each department
-- workers' hours: Total number of own and external employees.
+- stores.csv: ID (primary key) and location of each store of the company
+- month_id.csv: Numerical ID associated with each date. (primary key: 'Date')
+- depts.csv: Numerical ID associated with each department (primary key: 'Department Name')
+- workers_hours.csv: Total number of own and external employees. (Neat extraction from the main dataframe)
+
+All the previous files are related to *retail_cleaned* 
 
 Now we could use this data for an analysis, answering questions such as:
 - How have the industry's profits evolved over time?
