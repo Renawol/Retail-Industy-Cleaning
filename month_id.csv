@@ -1,10 +1,10 @@
-time_index,date
-1,October 2016
-2,November 2016
-3,December 2016
-4,January 2017
-5,February 2017
-6,March 2017
-7,April 2017
-8,May 2017
-9,June 2017
+Time ID,Date,Formal Date
+1,October 2016,2016-10-01
+2,November 2016,2016-11-01
+3,December 2016,2016-12-01
+4,January 2017,2017-01-01
+5,February 2017,2017-02-01
+6,March 2017,2017-03-01
+7,April 2017,2017-04-01
+8,May 2017,2017-05-01
+9,June 2017,2017-06-01

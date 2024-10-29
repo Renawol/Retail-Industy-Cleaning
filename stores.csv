@@ -1,0 +1,51 @@
+Store ID,City,Store Number,Country
+73762,Antwerp,Unique,Belgium
+19340,Brussels,I,Belgium
+76852,Brussels,II,Belgium
+20891,Brno,Unique,Czech Republic
+45583,Ostrava,Unique,Czech Republic
+38560,Prague,I,Czech Republic
+85696,Prague,II,Czech Republic
+87703,Aalborg,I,Denmark
+19000,Aalborg,II,Denmark
+32949,Copenhagen,I,Denmark
+96857,Copenhagen,II,Denmark
+73422,Bordeaux,Unique,France
+85124,Lyon,Unique,France
+63354,Marseille,Unique,France
+91973,Nantes,Unique,France
+98422,Paris,I,France
+79785,Paris,II,France
+83160,Berlin,I,Germany
+12227,Berlin,II,Germany
+86089,Cologne,Unique,Germany
+42367,Frankfurt,Unique,Germany
+34378,Hamburg,Unique,Germany
+94882,Munich,Unique,Germany
+77348,Bologna,Unique,Italy
+64983,Milano,Unique,Italy
+78325,Napoli,Unique,Italy
+78450,Rome,I,Italy
+94153,Rome,II,Italy
+19769,Krakow,Unique,Poland
+23623,Poznan,Unique,Poland
+71991,Warsaw,I,Poland
+86208,Warsaw,II,Poland
+16927,Barcelona,I,Spain
+96493,Barcelona,II,Spain
+88750,Bilbao,Unique,Spain
+88994,Madrid,I,Spain
+20166,Madrid,II,Spain
+29650,Gothenburg,Unique,Sweden
+90992,Malmö,Unique,Sweden
+81473,Stockholm,Unique,Sweden
+15552,Amsterdam,Unique,The Netherlands
+95434,Den Haag,Unique,The Netherlands
+85321,Groningen,Unique,The Netherlands
+93033,Rotterdam,Unique,The Netherlands
+22117,Birmingham,Unique,United Kingdom
+73949,Leicester,Unique,United Kingdom
+17647,Liverpool,Unique,United Kingdom
+88253,London,I,United Kingdom
+18808,London,II,United Kingdom
+38976,Manchester,Unique,United Kingdom
